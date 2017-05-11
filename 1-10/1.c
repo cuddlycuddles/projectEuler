@@ -9,5 +9,5 @@ int main (int argc, char *argv[]) {
 		}
 		++i;
 	}
-	printf ("Result = %i\n", sum);
+	printf ("Sum = %i\n", sum);
 }
