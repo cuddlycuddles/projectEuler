@@ -33,6 +33,7 @@ void testFunctions (void) {
 	printf ("Functions work.\n");
 }
 
+// returns number of terms in input's collatz sequence
 int numWondrous (long x) {
 	int terms = 1;
 	while (x != 1) {
